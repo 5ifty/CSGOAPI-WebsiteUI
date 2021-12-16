@@ -1,0 +1,31 @@
+{
+    "killRelated": [
+        {
+            "SteamID": "76561198283763531",
+            "kill": "15,557",
+            "ratio": "0.77",
+            "shotacc": "16.1%"
+        }
+    ],
+    "metaData": [
+        {
+            "BombsDefused": "175",
+            "BombsPlanted": "775",
+            "HeadshotPercentage": "36.3%",
+            "Losses": "859",
+            "MvP": "2,615",
+            "RoundsPlayed": "21,410",
+            "RoundsWon": "444",
+            "Wins": "444"
+        }
+    ],
+    "miscData": [
+        {
+            "damageGiven": "2,299,673",
+            "gamePlayed": "1,303",
+            "moneyEarned": "51,714,550",
+            "score": "31,656",
+            "timePlayed": "22d 18h 24m"
+        }
+    ]
+}
